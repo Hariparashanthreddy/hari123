@@ -59,3 +59,15 @@ D-2 Vector Classes.cpp
 D-2 Voting.cpp
 
 D-2 Voting2.cpp
+
+Day-3
+
+D-3 PrimeNumbers.cpp
+
+D-3 Print Number.cpp
+
+D-3 Student Clas.cpp
+
+D-3 Vowel Check.cpp
+
+This programs is done in DevC++.
