@@ -60,11 +60,21 @@ D-2 Voting.cpp
 
 D-2 Voting2.cpp
 
-Day-3
+**Day-3**
+
+D-3 Area od Square & Rectangle.cpp
+
+D-3 Deposited.cpp
+
+D-3 Names of Student by Creating A Student Class.cpp
+
+D-3 Piggy Bank.cpp
 
 D-3 PrimeNumbers.cpp
-
+A
 D-3 Print Number.cpp
+
+D-3 Rectangle.cpp
 
 D-3 Student Clas.cpp
 
