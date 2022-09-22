@@ -1,5 +1,9 @@
 **Day-1**
 
+Amstrong.cpp
+
+AscendingandDescending.cpp
+
 ICM and JDC.cpp
 
 Duplicate.cpp
