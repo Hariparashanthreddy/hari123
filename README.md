@@ -86,4 +86,6 @@ salary of employee
 
 D-4 area of circle using pointer
 
+D-4 integers using array using pointer
+
 This programs is done in DevC++.
