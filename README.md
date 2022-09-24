@@ -91,8 +91,6 @@ D-4 area of circle using pointer
 
 D-4 integers using array using pointer
 
-D-4 area of circle.cpp
-
 D-4 sum integer in array.cpp
 
 D-4 Single inheritance.cpp
