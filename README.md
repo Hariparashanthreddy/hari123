@@ -71,8 +71,6 @@ D-3 Names of Student by Creating A Student Class.cpp
 D-3 Piggy Bank.cpp
 
 D-3 PrimeNumbers.cpp
-A
-D-3 Print Number.cpp
 
 D-3 Rectangle.cpp
 
