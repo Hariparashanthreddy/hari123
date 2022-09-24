@@ -102,5 +102,16 @@ D-4 Marks and sports hybrid inheritance.cpp
 D-4 Mamal & Bluewhale.cpp
 
 D-4 Sum interger in array.cpp
+**day 5**
+
+D-5 Inter and Funtion.cpp
+
+D-5 Integer and Character.cpp
+
+D-5 Count of friuts, Apple, Mango.cpp
+
+D-5 Composite Interval.cpp
+
+D-5 Choice for arthimatic Operation.cpp
 
 This programs is done in DevC++.
