@@ -84,7 +84,6 @@ account and admin.cpp
 
 D-3 Rbi Bank.cpp
 
-D-3 Rbi Bank.cpp
 
 **DAY-4**
 
