@@ -82,6 +82,10 @@ salary of employee
 
 account and admin.cpp
 
+D-3 Rbi Bank.cpp
+
+D-3 Rbi Bank.cpp
+
 **DAY-4**
 
 D-4 area of circle using pointer
@@ -91,5 +95,15 @@ D-4 integers using array using pointer
 D-4 area of circle.cpp
 
 D-4 sum integer in array.cpp
+
+D-4 Single inheritance.cpp
+
+D-4 Student records.cpp
+
+D-4 Marks and sports hybrid inheritance.cpp
+
+D-4 Mamal & Bluewhale.cpp
+
+D-4 Sum interger in array.cpp
 
 This programs is done in DevC++.
