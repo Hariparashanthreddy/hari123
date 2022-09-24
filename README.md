@@ -82,10 +82,16 @@ D-3 Vowel Check.cpp
 
 salary of employee
 
+account and admin.cpp
+
 **DAY-4**
 
 D-4 area of circle using pointer
 
 D-4 integers using array using pointer
+
+D-4 area of circle.cpp
+
+D-4 sum integer in array.cpp
 
 This programs is done in DevC++.
