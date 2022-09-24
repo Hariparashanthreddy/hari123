@@ -114,4 +114,8 @@ D-5 Composite Interval.cpp
 
 D-5 Choice for arthimatic Operation.cpp
 
+D-5 Bank simple Interest.cpp
+
+D-5 Account and Admin.cpp
+
 This programs is done in DevC++.
